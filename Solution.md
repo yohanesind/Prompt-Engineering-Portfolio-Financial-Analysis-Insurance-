@@ -81,19 +81,24 @@ In this way, AI not only presents information, but also helps you understand and
 The result is a powerful tool that empowers individuals to make informed decisions about insurance policies. By demystifying financial statements, this project promotes financial literacy and transparency, ultimately benefiting both consumers and the insurance industry.
 
 
-Project Highlights
-Financial Statement Analysis:
+<h3>Project Highlights</h3>
+
+**Financial Statement Analysis:**
 Developed prompts to extract key financial ratios (e.g., liquidity, profitability, solvency) from diverse financial reports.
 Identified emerging trends and potential risks through AI-powered analysis of financial data.
 Presented findings in clear, concise summaries for easy interpretation by non-experts.
-Insurance Claim Prediction:
+
+**Insurance Claim Prediction:**
 Designed prompts to guide AI models in predicting claim likelihood and severity based on historical data.
 Identified critical factors influencing claim outcomes, aiding in risk assessment and underwriting decisions.
 Significantly improved claim prediction accuracy compared to traditional methods.
-Get in Touch
+
+<h3>Get in Touch</h3>
+
 I am eager to apply my prompt engineering expertise to your next AI project. Let's collaborate to unlock the full potential of AI in your organization!
 
 **Email:** contact@yohanesindra.com <br></br>
 [LinkedIn](https://linkedin.com/in/yohanesind)<br></br>
+[Instagram](https://instagram.com/yohanesind)<br></br>
 [Whatsapp](https://api.whatsapp.com/send/?phone=6285781983540&text=Hai+Yohanes.+I+Want+to+talk+about&type=phone_number&app_absent=0)
 
