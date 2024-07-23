@@ -24,8 +24,9 @@ I'm constantly pushing the boundaries of what's possible with prompt engineering
 
 ## Let's Collaborate!
 
-If you're looking for a prompt engineer with expertise in financial analysis, I'd love to discuss how I can help your organization leverage the power of LLMs. Please feel free to contact me.
+I am eager to apply my prompt engineering expertise to your next AI project. Let's collaborate to unlock the full potential of AI in your organization!
 
-[Linkedin](https://www.linkedin.com/in/yohanesindra/)
-
-Email : yohanesindra.com
+**Email:** contact@yohanesindra.com <br></br>
+[LinkedIn](https://linkedin.com/in/yohanesind)<br></br>
+[Instagram](https://instagram.com/yohanesind)<br></br>
+[Whatsapp](https://api.whatsapp.com/send/?phone=6285781983540&text=Hai+Yohanes.+I+Want+to+talk+about&type=phone_number&app_absent=0)
