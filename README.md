@@ -25,5 +25,7 @@ I'm constantly pushing the boundaries of what's possible with prompt engineering
 ## Let's Collaborate!
 
 If you're looking for a prompt engineer with expertise in financial analysis, I'd love to discuss how I can help your organization leverage the power of LLMs. Please feel free to contact me.
+
 [Linkedin](https://www.linkedin.com/in/yohanesindra/)
+
 Email : yohanesindra.com
